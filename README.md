@@ -8,3 +8,4 @@ OPENAI_API_KEY = ''
 
 ## 图解LangChain的不同Chain Type
 
+![LangChain chain types](langchain-types.png)
